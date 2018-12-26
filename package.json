@@ -1,0 +1,23 @@
+{
+  "name": "mindmapplugin",
+  "version": "1.0.0",
+  "description": "A brain map plugin that can be integrated into a desktop application (developed by Electron)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QLDD/mindMapPlugin.git"
+  },
+  "keywords": [
+    "plugin",
+    "mindmap"
+  ],
+  "author": "'QL' <'ctmo737qi@126.com'>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/QLDD/mindMapPlugin/issues"
+  },
+  "homepage": "https://github.com/QLDD/mindMapPlugin#readme"
+}
