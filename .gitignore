@@ -1,7 +1,0 @@
-.vscode/
-node_modules/
-bower_components/
-dist/
-OutApp/
-package-lock.json
-yarn.lock
