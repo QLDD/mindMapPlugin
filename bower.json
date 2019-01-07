@@ -1,0 +1,21 @@
+{
+  "name": "mindmapplugin",
+  "description": "A mind map plugin that can be integrated into a desktop application (developed by Electron)",
+  "main": "index.js",
+  "authors": [
+    "'QL' <'ctmo737qi@126.com'>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "plugin",
+    "mindmap"
+  ],
+  "homepage": "https://github.com/QLDD/mindMapPlugin",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
