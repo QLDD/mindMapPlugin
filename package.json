@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/QLDD/mindMapPlugin#readme",
   "devDependencies": {
-    "electron": "^4.0.0"
+    "electron": "^4.0.0",
+    "gulp": "^4.0.0"
   }
 }
